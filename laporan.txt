@@ -1,0 +1,6 @@
+LAPORAN TRANSAKSI BESAR
+Nama Toko: Toko Sukses Makmur
+==========================================
+ID PELANGGAN | NAMA | PRODUK | QTY | KATEGORI
+==========================================
+Total transaksi berhasil: 3
